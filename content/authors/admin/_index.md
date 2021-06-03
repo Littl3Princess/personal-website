@@ -46,9 +46,6 @@ social:
   label: Follow me on Telegram
   display:
     header: true
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: github
   icon_pack: fab
   link: https://github.com/Littl3Princess
