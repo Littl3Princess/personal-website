@@ -28,8 +28,7 @@ education:
   - course: BSc in Economics & Finance
     institution: HSE ICEF
     year: 2018-2022
-  - course: Pavlovo Gymnasium
-    institution: Massachusetts Institute of Technology
+  - school: Pavlovo Gymnasium
     year: 2016-2018
 
 
