@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: 'Expert Tea Pot' # Website name
-baseurl: '' # Website URL
+baseurl: 'https://happy-montalcini-f1fdff.netlify.app' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
