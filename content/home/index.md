@@ -6,7 +6,3 @@ type: "widget_page"
 headless: true
 ---
 
-type: wowchemycms
-outputs:
-  - wowchemycms_config
-  - HTML
