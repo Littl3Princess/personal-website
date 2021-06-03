@@ -1,70 +1,44 @@
 ---
-# Display name
 title: Andy the Pot
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
 role: 3rd Year Student & Independent Investor
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: HSE ICEF
-  url: https://icef.hse.ru/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include technology, alternative source of energy & local trends
-
-# Interests to show in About widget
+bio: My research interests include technology, alternative source of energy &
+  local trends
 interests:
-- Economics & Finance
-- Extreme driving
-- Self-education
-
-# Education to show in About widget
+  - Economics & Finance
+  - Extreme driving
+  - Self-education
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:expertteapot@gmail.com
+  - icon: paper-plane
+    icon_pack: fas
+    link: https://t.me/ExpertTeapot
+    label: Follow me on Telegram
+    display:
+      header: true
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/Littl3Princess
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/andrey-likhov-04962520b/
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
+organizations:
+  - name: HSE ICEF
+    url: https://icef.hse.ru/
 education:
   courses:
-  - course: BSc in Economics & Finance
-    institution: HSE ICEF
-    year: 2018-2022
-  - institution: 2016-2018
-    year: Pavlovo Gymnasium
-
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:expertteapot@gmail.com
-- icon: paper-plane
-  icon_pack: fas
-  link: https://t.me/ExpertTeapot
-  label: Follow me on Telegram
-  display:
-    header: true
-- icon: github
-  icon_pack: fab
-  link: https://github.com/Littl3Princess
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/andrey-likhov-04962520b/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-
-- icon: cv
-  icon_pack: ai
-  link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: BSc in Economics & Finance
+      institution: HSE ICEF
+      year: ""
+    - institution: 2016-2018
+      year: ""
+      course: Pavlovo Gymnasium
 email: ""
-
-# Highlight the author in author lists? (true/false)
+superuser: true
 highlight_name: false
 ---
 
