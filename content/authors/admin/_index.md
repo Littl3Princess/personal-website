@@ -77,4 +77,4 @@ This site is created for a storage purpose - the storage of knowledge. Besides t
 
 And, yeah, I want to apply to Goldman Sachs.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
+
