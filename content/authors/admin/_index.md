@@ -28,8 +28,8 @@ education:
   - course: BSc in Economics & Finance
     institution: HSE ICEF
     year: 2018-2022
-  - institution: Pavlovo Gymnasium
-    year: 2016-2018
+  - institution: 2016-2018
+    year: Pavlovo Gymnasium
 
 
 # Social/Academic Networking
