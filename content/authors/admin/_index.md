@@ -44,12 +44,12 @@ social:
 - icon: paper-plane
   icon_pack: fas
   link: https://t.me/ExpertTeapot
+  label: Follow me on Telegram
+  display:
+    header: true
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
-  label: Follow me on Twitter
-  display:
-    header: true
 - icon: github
   icon_pack: fab
   link: https://github.com/Littl3Princess
