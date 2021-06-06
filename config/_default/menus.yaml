@@ -7,6 +7,15 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Folders
-    url: docs/
+  - name: Finance
+    url: finance/
     weight: 20
+  - name: Career
+    url: career/
+    weight: 30
+  - name: Watches
+    url: watches/
+    weight: 40
+  - name: Others
+    url: others/
+    weight: 50
