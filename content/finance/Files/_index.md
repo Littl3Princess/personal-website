@@ -20,3 +20,4 @@ Investment Banking:
 
  [Joshua Rosenbaum Workbook (Wiley Finance)](JoshuaRosenbaum-IB-Workbook.pdf) 
 
+(Возможно чуть дольшее ожидание загрузки больших файлов из-за серверов)
