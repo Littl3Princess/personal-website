@@ -1,11 +1,11 @@
 ---
 # Title, summary, and page position.
-linktitle: Economics
+linktitle: Study
 icon: university
 icon_pack: fas
 
 # Page metadata.
-title: Economics
+title: Study
 date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
