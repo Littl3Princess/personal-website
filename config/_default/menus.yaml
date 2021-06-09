@@ -10,6 +10,9 @@ main:
   - name: Finance
     url: finance/
     weight: 20
+  - name: Economics
+    url: economics/
+    weight: 25
   - name: Career
     url: career/
     weight: 30
