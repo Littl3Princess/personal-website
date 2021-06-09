@@ -16,6 +16,9 @@ main:
   - name: Career
     url: career/
     weight: 30
+  - name: Study
+    url: study/
+    weight: 35
   - name: Watches
     url: watches/
     weight: 40
