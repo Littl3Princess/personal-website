@@ -10,6 +10,13 @@ date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
- [Econometrics Lecture notes 2.pdf](Econometrics Lecture notes 2.pdf)  [ICEF_Econometrics.pdf](ICEF_Econometrics.pdf)  
-[UoL_Econometrics.pdf](UoL_Econometrics.pdf) 
+#Exams Pack
+[ICEF Exams [pdf]](ICEF_Econometrics.pdf)  
+[UoL Exams[pdf]](UoL_Econometrics.pdf) 
+
+[ICEF Lecture Notes [pdf]](EconometricsLectureNotes.pdf)  
+
+[BSc3 Учебный План [doc]](BSc3_Ecnometrics.doc) 
+
+
 
