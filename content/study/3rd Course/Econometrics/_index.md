@@ -10,3 +10,6 @@ date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
+ [Econometrics Lecture notes 2.pdf](Econometrics Lecture notes 2.pdf)  [ICEF_Econometrics.pdf](ICEF_Econometrics.pdf)  
+[UoL_Econometrics.pdf](UoL_Econometrics.pdf) 
+
