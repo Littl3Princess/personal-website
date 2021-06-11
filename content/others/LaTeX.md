@@ -3,7 +3,7 @@ title: LaTeX
 type: book  # Do not modify.
 toc: false
 weight: 5
-  
+reading_time: true
 
 ---
 
