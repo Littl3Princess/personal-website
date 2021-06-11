@@ -20,13 +20,6 @@ $$
 
 
 
-
-![latex](LaTeX.png)
-
-
-
-![LaTeX](/Users/Juliasha/Documents/GitHub/personal-website/content/others/LaTeX.png)
-
 Также, рекумендуется пользоваться сайтами для конвертации в язык LaTeX:
 
 
