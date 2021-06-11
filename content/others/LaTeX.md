@@ -17,7 +17,9 @@ $$
 
 
 
-![This is an image](/img/image.png)
+![latex](/content/others/latex.png)
+
+
 
 Также, рекумендуется пользоваться сайтами для конвертации в язык LaTeX:
 
