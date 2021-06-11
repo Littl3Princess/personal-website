@@ -11,19 +11,13 @@ reading_time: true
 
 ### Чтобы добавить математическую формулу, можно использовать "$$"
 
-
-
-![Снимок экрана 2021-06-10 в 19.15.20](/Users/Juliasha/Documents/GitHub/personal-website/content/others/Снимок экрана 2021-06-10 в 19.15.20.png)
-
-
-
-
 $$
 \log_{a}{b} + a^{b} = xyz
 $$
 
 
 
+![This is an image](/img/image.png)
 
 Также, рекумендуется пользоваться сайтами для конвертации в язык LaTeX:
 
