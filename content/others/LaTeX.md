@@ -4,7 +4,7 @@ type: book  # Do not modify.
 toc: false
 weight: 5
 reading_time: true
-
+typora-root-url: ./LaTeX.png
 ---
 
 ### 
@@ -18,7 +18,7 @@ $$
 \log_{a}{b} + a^{b} = xyz
 $$
 
-
+![LaTeX](/../LaTeX.png)
 
 Также, рекумендуется пользоваться сайтами для конвертации в язык LaTeX:
 
