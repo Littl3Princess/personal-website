@@ -20,7 +20,7 @@ $$
 
 ![Снимок экрана 2021-06-12 в 1.12.37](../../static/latex.png)
 
-Также, рекумендуется пользоваться сайтами для конвертации в язык LaTeX:
+![latex](../../assets/media/latex.png)Также, рекумендуется пользоваться сайтами для конвертации в язык LaTeX:
 
 
 * [Tutorialspoint.com](https://www.tutorialspoint.com/latex_equation_editor.htm)
