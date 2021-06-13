@@ -18,9 +18,9 @@ $$
 \log_{a}{b} + a^{b} = xyz
 $$
 
-![Снимок экрана 2021-06-12 в 1.12.37](../../static/latex.png)
+{{< figure src="latex.png" caption="A caption" >}}
 
-![latex](../../assets/media/latex.png)Также, рекумендуется пользоваться сайтами для конвертации в язык LaTeX:
+Также, рекумендуется пользоваться сайтами для конвертации в язык LaTeX:
 
 
 * [Tutorialspoint.com](https://www.tutorialspoint.com/latex_equation_editor.htm)
@@ -35,6 +35,4 @@ $$
 
 
 
-{{< figure src="latex.png" caption="A caption" >}}
-
-{{< figure src="latex.png" caption="A caption" numbered="true" >}}
+![latex](latex.png)
