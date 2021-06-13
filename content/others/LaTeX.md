@@ -32,3 +32,10 @@ $$
 * [Latex4technics.com](https://www.latex4technics.com/)
 
   ###### или иными сайтами с шаблонами для простоты работы с формулами
+
+
+
+{{< figure src="image.jpg" caption="A caption" >}}
+
+{{< figure src="image.jpg" caption="A caption" numbered="true" >}}
+
