@@ -11,5 +11,4 @@ reading_time: true
 
 ​		{{< instagram BWNjjyYFxVx >}}
 
-![instagram](../../assets/media/instagram.png)
-
+{{< figure src="instagram.png" caption="A caption" >}}
