@@ -9,6 +9,7 @@ reading_time: true
 
 
 
-​		{{< instagram BWNjjyYFxVx >}}
+​		{{< instagram CL2cdRQigdQ >}}
 
 {{< figure src="instagram.png" caption="A caption" >}}
+
