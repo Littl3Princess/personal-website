@@ -14,7 +14,6 @@ reading_time: true
 
 
 
-
 $$
 \log_{a}{b} + a^{b} = xyz
 $$
