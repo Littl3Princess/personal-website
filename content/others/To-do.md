@@ -1,5 +1,5 @@
 ---
-title: Список задач
+title: To-do лист
 type: book  # Do not modify.
 toc: false
 weight: 4
