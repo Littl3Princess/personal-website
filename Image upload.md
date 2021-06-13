@@ -12,6 +12,6 @@ reading_time: true
 
 "{{< figure src="latex.png" caption="A caption" numbered="true" >}}"
 
-
+ 
 
 {{< tweet 1404140478925357060 >}}
