@@ -35,7 +35,9 @@ $$
 
 
 
-{{< figure src="image.jpg" caption="A caption" >}}
+{{< figure src="latex.png" caption="A caption" >}}
 
-{{< figure src="image.jpg" caption="A caption" numbered="true" >}}
+{{< figure src="latex.png" caption="A caption" numbered="true" >}}
+
+![alternative text for search engines](latex.png)
 
