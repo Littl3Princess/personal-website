@@ -38,6 +38,3 @@ $$
 {{< figure src="latex.png" caption="A caption" >}}
 
 {{< figure src="latex.png" caption="A caption" numbered="true" >}}
-
-![alternative text for search engines](latex.png)
-
