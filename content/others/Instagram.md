@@ -1,5 +1,5 @@
 ---
-title: Выделение
+title: Instagram
 type: book  # Do not modify.
 toc: false
 weight: 7
