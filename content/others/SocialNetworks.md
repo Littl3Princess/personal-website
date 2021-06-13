@@ -1,5 +1,5 @@
 ---
-title: Instagram
+title: Соц. Сети
 type: book  # Do not modify.
 toc: false
 weight: 7
@@ -23,11 +23,12 @@ https://www.instagram.com/p/CQDmS_gMCWU/
 
 #### Twitter:
 
-{{< tweet 877500564405444608 >}}
+{{< tweet 1333631368383799296 >}}
 
-
+{{< figure src="twitter.png" >}}
 
 #### Youtube:
 
 {{< youtube aMGa4993ohc >}} 
 
+{{< figure src="youtube.png" >}}
