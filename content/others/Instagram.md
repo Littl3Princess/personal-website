@@ -7,7 +7,7 @@ reading_time: true
 
 ---
 
-
+#### Instagram
 
 ​		{{< instagram CQBls3pMunU >}}
 
@@ -19,13 +19,15 @@ If you’d like to embed a photo from [Instagram](https://www.instagram.com/), y
 https://www.instagram.com/p/CQDmS_gMCWU/
 ```
 
+
+
+#### Twitter:
+
 {{< tweet 877500564405444608 >}}
 
 
 
+#### Youtube:
+
 {{< youtube aMGa4993ohc >}} 
-
-[дирижабль Ага](https://www.youtube.com/watch?v=aMGa4993ohc)
-
-https://www.youtube.com/watch?v=aMGa4993ohc
 
