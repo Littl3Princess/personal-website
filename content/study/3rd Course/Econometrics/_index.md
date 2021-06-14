@@ -12,6 +12,10 @@ type: book  # Do not modify.
 
 #Exams Pack
 
+
+
+
+
 [ICEF Exams [pdf]](ICEF_Econometrics.pdf)  
 
 [UoL Exams[pdf]](UoL_Econometrics.pdf) 
